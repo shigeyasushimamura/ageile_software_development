@@ -1,0 +1,25 @@
+{
+  "name": "ageile_software_development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shigeyasushimamura/ageile_software_development.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shigeyasushimamura/ageile_software_development/issues"
+  },
+  "homepage": "https://github.com/shigeyasushimamura/ageile_software_development#readme",
+  "devDependencies": {
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
