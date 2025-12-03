@@ -1,4 +1,4 @@
-import { PermissionPolicy } from "./policy";
+import type { PermissionPolicy } from "./policy.js";
 
 /**
  * 権限
